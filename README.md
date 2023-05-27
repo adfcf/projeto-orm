@@ -1,2 +1,2 @@
-# projeto-orm
-POO - Atividade 3. Controle de contratos simples com banco de dados.
+# Atividade 3 - POO
+Controle de contratos simples com banco de dados.
